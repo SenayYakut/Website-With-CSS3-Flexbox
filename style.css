@@ -132,3 +132,12 @@ h1 {
     margin-bottom: 0;
     margin-left: 20px;
 }
+
+#creator {
+    float: right;
+    font-family: "Dancing script", cursive;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    color: #000;
+
+}
