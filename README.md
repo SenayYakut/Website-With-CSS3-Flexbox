@@ -8,8 +8,7 @@ Create a landing page for a website with CSS3 Flexbox.
 
 Install the project locally
 ```bash
-https://github.com/SenayYakut/Typography.git
-
+https://github.com/SenayYakut/Website-With-CSS3-Flexbox.git
 ```
 
 ## Usage
