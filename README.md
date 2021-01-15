@@ -2,7 +2,7 @@
 
 Website With Flexbox is a CSS3 project
 
-Change the apperance of fonts using different CSS properties and CSS font libraries.
+Create a landing page for a website with CSS3 Flexbox.
 
 ## Installation
 
